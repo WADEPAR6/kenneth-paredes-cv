@@ -1,0 +1,100 @@
+{
+  "general": {
+    "title": "Informacion General",
+    "name": "General",
+    "description": "Soy un desarrollador de software con experiencia en el desarrollo de aplicaciones web y móviles. Me apasiona la tecnología y la programación. Me gusta aprender cosas nuevas y enfrentar desafíos. Soy una persona proactiva, responsable y comprometida con mi trabajo.",
+    "skills": {
+      "nameSkill": "Habilidades",
+      "description": "Habilidades profesionales y técnicas.",
+      "items": {
+        "innovator": "Innovador",
+        "teamPlayer": "Jugador de Equipo",
+        "problemSolver": "Solucionador de Problemas",
+        "fastLearner": "Aprendiz Rápido",
+        "responsible": "Responsable",
+        "committed": "Comprometido",
+        "proactive": "Proactivo",
+        "creative": "Creativo",
+        "analytical": "Analítico",
+        "detailOriented": "Orientado a Detalles",
+        "adaptable": "Adaptable",
+        "communicative": "Comunicativo",
+        "collaborative": "Colaborativo",
+        "leadership": "Liderazgo",
+        "empathetic": "Empático",
+        "patient": "Paciente",
+        "tolerant": "Tolerante",
+        "respectful": "Respetuoso",
+        "honest": "Honesto",
+        "ethical": "Ético",
+        "professional": "Profesional",
+        "punctual": "Puntual",
+        "organized": "Organizado",
+        "efficient": "Eficiente"
+      }
+    }
+  },
+  "educationTitle": "Educación",
+  "educationItems": {
+    "degree": "Bachelor of Computer Science",
+    "institution": "University of XYZ",
+    "period": "2015 - 2019"
+  },
+  "languas": [
+    {
+      "key": 1,
+      "nameIdiom": "Español",
+      "descriptionIdiom": "Lengua Materna",
+      "percentage": 95
+    },
+    {
+      "key": 2,
+      "nameIdiom": "Inglés",
+      "descriptionIdiom": "Segunda Lengua",
+      "percentage": 90
+    },
+    {
+      "key": 3,
+      "nameIdiom": "Arabe",
+      "descriptionIdiom": "Tercera Lengua",
+      "percentage": 60
+    }
+  ],
+  "languagesNull": "No hay idiomas",
+  "languagesLevel": "Nivel Estimado",
+  "workExperienceTitle": "Experiencia Laboral",
+  "workExperienceFirst": {
+    "role": "Desarrollador de Software",
+    "company": "Tech Corp",
+    "period": "2020 - Present",
+    "description": "Developing web and mobile applications."
+  },
+  "workExperienceSecond": {
+    "role": "Desarrollador de Software",
+    "company": "Tech Corp",
+    "period": "2020 - Present",
+    "description": "Developing web and mobile applications."
+  },
+  "workExperienceNull": "No hay experiencia laboral",
+  "nameLanguage": "Languajes",
+  "descriptionLanguage": "Lenguas e Idiomas hablados o escritos.",
+  "socialNetworks": "Redes Sociales",
+  "aboutMe": "Sobre Mí",
+  "personalNumber": "Número Personal",
+  "institutionalEmail": "Correo Institucional",
+  "personalEmail": "Correo Personal",
+  "download": "Descargar PDF",
+  "portafolio": "Portafolio",
+  "experience": "Experiencia",
+  "curses": "Cursos",
+  "proyects": "Proyectos",
+  "contacts": "Contactos",
+  "frameworks": "Frameworks",
+  "tools": "Herramientas",
+  "databases": "Bases de Datos",
+  "operatingSystems": "Sistemas Operativos",
+  "certifications": "Certificaciones",
+  "personalInformation": "Información Personal",
+  "birthdate": "Fecha de Nacimiento",
+  "address": "Dirección"
+}
